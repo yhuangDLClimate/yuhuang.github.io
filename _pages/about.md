@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+#title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a climate scientist now working at [Earth System Modelling (TUM)](https://www.asg.ed.tum.de/esm/home/) and [Artificial Intelligence (PIK)](https://www.pik-potsdam.de/en/institute/departments/complexity-science/research/artificial-intelligence)
+I am a climate scientist now working at [Earth System Modelling (TUM)](https://www.asg.ed.tum.de/esm/home/) and [Artificial Intelligence (PIK)](https://www.pik-potsdam.de/en/institute/departments/complexity-science/research/artificial-intelligence). Below are my research topics. 
 
 A data-driven personal website
 ======
