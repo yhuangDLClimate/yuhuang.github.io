@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Learning for Dynamics"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Dr Yu Huang"
   pronouns         : # example: "she/her"  
-  bio              : "climate scientist, data scientist"
-  location         : "Germany"
+  bio              : "Learning for climate dynamics"
+  location         : " Munich"
   employer         : "Techical University of Munich"
   uri              : # URL
   email            : "y.huang@tum.de" 
